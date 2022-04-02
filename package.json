@@ -1,0 +1,24 @@
+{
+  "name": "mini_projet_react",
+  "version": "1.0.0",
+  "description": "Publication Management with Node.js, Express and MongoDB ",
+  "main": " server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb",
+    "rest",
+    "api"
+  ],
+  "author": "ratsaratany",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.4"
+  }
+}
